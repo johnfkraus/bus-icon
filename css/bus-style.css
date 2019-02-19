@@ -1,0 +1,39 @@
+/* bus-style.css*/
+
+td {
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.center {
+    margin: auto;
+    width: 510px;
+
+}
+
+div.busbox {
+    margin: auto;
+    width: 207px;
+    height: 94px;
+    border: 1px solid #333;
+    border-radius: 15px;
+    text-align: center;
+}
+
+div.busbox img {
+    margin: auto;
+    width: 207px;
+    height: 94px;
+   /* border: 1px solid #333;*/
+    border-radius: 15px;
+}
+
+div.busbox i {
+    margin-top: 15px;
+    color: #0F0;
+}
+
+.hidden {
+    display: none;
+}

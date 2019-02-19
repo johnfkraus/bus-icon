@@ -1,0 +1,9 @@
+ 31M	./css
+1.9M	./images
+2.2M	./js
+ 85M	./.git
+ 68K	./.idea
+122M	.
+1768 objects, 86812 kilobytes
+122M	.
+ 85M	.git
