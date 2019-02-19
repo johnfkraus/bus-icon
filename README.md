@@ -1,4 +1,4 @@
-# busicon
+# bus-icon
 
 ## Bus icon for Job Manager
 <!--
